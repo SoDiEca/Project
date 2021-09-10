@@ -14,11 +14,15 @@ function Home() {
       <section className="hero">
         <div className="container">
           <div className="text-wrapper">
-            <h1 className="title">Hi, Ecaterina!</h1>
-            <p className="description">I am a beginner in coding.</p>
+            <h1 className="title">Hello pretty people!</h1>
+            <h3 className="sub-title">I love chocolate :)</h3>
+            <p className="description">
+              I've just started my journey on the road of Web Development and I
+              really look forward to everything it has to offer.
+            </p>
 
             <Link href="/contact">
-              <a className="cta">Contact Ecaterina</a>
+              <a className="cta">:)</a>
             </Link>
           </div>
 
